@@ -1,0 +1,75 @@
+/**************************************************
+General
+***************************************************/
+.wrap{
+  width: 93%;
+  margin:auto;
+}
+/**************************************************
+Navigation
+***************************************************/
+.top-bar{
+  background-color:rgb(0,139,139);
+}
+.top-bar ul{
+  background-color: transparent;
+  border-style: none;
+}
+.top-bar li{
+  background-color: rgb(0,139,139);
+
+}
+.top-bar h4, .top-bar a{
+  color: black;
+  font-family: 'UnifrakturCook', cursive;
+}
+/****************************************************
+header
+*****************************************************/
+.orbit img{
+  height:20em;
+}
+
+
+
+
+/*****************************************************
+Main
+******************************************************/
+.main{
+padding-top:2em;
+font-family: 'UnifrakturCook', cursive;
+}
+.row{
+width:100%;
+margin:auto;
+}
+.columns{
+  padding:1em 2em;
+}
+
+
+
+/*****************************************************
+Footer
+******************************************************/
+.footer{
+  text-align: center;
+  color:black;
+  background-color: rgb(0,139,139);
+  font-family: 'UnifrakturCook', cursive;
+  padding: 2em 0;
+}
+.footer h3{
+  color: black;
+  font-family: 'UnifrakturCook', cursive;
+}
+.footer a{
+  color:black;
+  font-family: 'UnifrakturCook', cursive;
+}
+.footer img{
+  height: 2em;
+  width: 2em;
+  font-family: 'UnifrakturCook', cursive;
+}
